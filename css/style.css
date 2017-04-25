@@ -1,0 +1,11 @@
+.colorsWrapper{
+	background:grey;
+}
+
+.color{
+	width:100px;
+	height:100px;
+	background:black;
+	display: inline-block;
+	margin:5px;
+}
